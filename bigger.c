@@ -11,6 +11,7 @@ void main()
 		printf("%d is equal to %d.", number1, number2);
 		return;
 	}
+	printf("\n");
 	if(number1 < number2)
 	{
 		number2 = number1 + number2;
