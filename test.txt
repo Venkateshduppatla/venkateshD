@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 60F4-387F
+
+ Directory of C:\Users\Venkatesh.D\Desktop\projectGit
+
+09-04-2022  14:22    <DIR>          .
+09-04-2022  14:22    <DIR>          ..
+09-04-2022  14:22                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  189,925,265,408 bytes free
